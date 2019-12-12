@@ -1,0 +1,229 @@
+[27-Sep-2018 00:37:27 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[27-Sep-2018 00:37:27 America/Mexico_City] PHP Deprecated:  Function eregi_replace() is deprecated in /home/deleitatecom/public_html/admin/cls/funciones.php on line 2017
+[11-Oct-2018 12:56:30 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[11-Oct-2018 12:56:30 America/Mexico_City] PHP Fatal error:  Call to undefined function lista() in /home/deleitatecom/public_html/admin/reservaciones/index.php on line 3
+[31-Oct-2018 09:27:44 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[31-Oct-2018 09:27:44 America/Mexico_City] PHP Fatal error:  Call to undefined function lista() in /home/deleitatecom/public_html/admin/reservaciones/index.php on line 3
+[20-Nov-2018 22:38:49 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 22:38:49 America/Mexico_City] PHP Fatal error:  Call to undefined function lista() in /home/deleitatecom/public_html/admin/reservaciones/index.php on line 3
+[20-Nov-2018 23:11:39 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:26:32 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:26:32 America/Mexico_City] PHP Fatal error:  Call to undefined function lista() in /home/deleitatecom/public_html/admin/reservaciones/index.php on line 3
+[20-Nov-2018 23:29:14 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:29:14 America/Mexico_City] PHP Fatal error:  Call to undefined function lista() in /home/deleitatecom/public_html/admin/ventas/index.php on line 3
+[20-Nov-2018 23:30:10 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:30:10 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:31:25 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:31:25 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:31:51 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:31:51 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:32:03 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:32:03 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:32:26 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:32:26 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:32:58 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:32:58 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:33:12 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:33:12 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:33:33 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:33:33 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:33:51 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:33:51 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:35:03 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:35:03 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:35:24 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:35:24 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:35:35 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:35:35 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:36:27 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:36:27 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:36:40 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:36:40 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:36:42 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:36:42 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:38:48 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:38:48 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[20-Nov-2018 23:38:51 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:38:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 358
+[20-Nov-2018 23:38:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 389
+[20-Nov-2018 23:38:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 419
+[20-Nov-2018 23:38:51 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 449
+[20-Nov-2018 23:39:58 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:39:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 358
+[20-Nov-2018 23:39:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 389
+[20-Nov-2018 23:39:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 419
+[20-Nov-2018 23:39:58 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 449
+[20-Nov-2018 23:40:09 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:40:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 358
+[20-Nov-2018 23:40:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 389
+[20-Nov-2018 23:40:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 419
+[20-Nov-2018 23:40:09 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 449
+[20-Nov-2018 23:41:01 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:41:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 358
+[20-Nov-2018 23:41:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 389
+[20-Nov-2018 23:41:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 419
+[20-Nov-2018 23:41:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 449
+[20-Nov-2018 23:41:33 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:41:33 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 358
+[20-Nov-2018 23:41:33 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 389
+[20-Nov-2018 23:41:33 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 419
+[20-Nov-2018 23:41:33 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 449
+[20-Nov-2018 23:42:04 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:42:04 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:42:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 191
+[20-Nov-2018 23:42:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 358
+[20-Nov-2018 23:42:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 389
+[20-Nov-2018 23:42:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 419
+[20-Nov-2018 23:42:04 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 449
+[20-Nov-2018 23:42:47 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:42:47 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:42:47 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 191
+[20-Nov-2018 23:42:47 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 358
+[20-Nov-2018 23:42:47 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 389
+[20-Nov-2018 23:42:47 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 419
+[20-Nov-2018 23:42:47 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 449
+[20-Nov-2018 23:42:56 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:42:56 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:42:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 191
+[20-Nov-2018 23:42:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 358
+[20-Nov-2018 23:42:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 389
+[20-Nov-2018 23:42:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 419
+[20-Nov-2018 23:42:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 449
+[20-Nov-2018 23:43:22 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:43:22 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:43:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 191
+[20-Nov-2018 23:43:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 358
+[20-Nov-2018 23:43:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 389
+[20-Nov-2018 23:43:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 419
+[20-Nov-2018 23:43:22 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 449
+[20-Nov-2018 23:44:08 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:44:08 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:44:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 176
+[20-Nov-2018 23:44:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 343
+[20-Nov-2018 23:44:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 374
+[20-Nov-2018 23:44:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 404
+[20-Nov-2018 23:44:08 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 434
+[20-Nov-2018 23:44:46 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:44:46 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:44:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 328
+[20-Nov-2018 23:44:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 359
+[20-Nov-2018 23:44:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 389
+[20-Nov-2018 23:44:46 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 419
+[20-Nov-2018 23:45:25 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:45:25 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:45:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 337
+[20-Nov-2018 23:45:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 368
+[20-Nov-2018 23:45:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 398
+[20-Nov-2018 23:45:25 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 428
+[20-Nov-2018 23:46:15 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:46:15 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:46:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 337
+[20-Nov-2018 23:46:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 368
+[20-Nov-2018 23:46:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 398
+[20-Nov-2018 23:46:15 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 428
+[20-Nov-2018 23:47:37 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:47:37 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:47:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 346
+[20-Nov-2018 23:47:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 377
+[20-Nov-2018 23:47:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 407
+[20-Nov-2018 23:47:37 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 437
+[20-Nov-2018 23:47:59 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:47:59 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:47:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 346
+[20-Nov-2018 23:47:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 377
+[20-Nov-2018 23:47:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 407
+[20-Nov-2018 23:47:59 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 437
+[20-Nov-2018 23:48:21 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:48:21 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:48:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 346
+[20-Nov-2018 23:48:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 377
+[20-Nov-2018 23:48:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 407
+[20-Nov-2018 23:48:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 437
+[20-Nov-2018 23:49:21 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:49:21 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:49:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 346
+[20-Nov-2018 23:49:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 377
+[20-Nov-2018 23:49:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 407
+[20-Nov-2018 23:49:21 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 437
+[20-Nov-2018 23:49:27 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:49:27 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:49:27 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 338
+[20-Nov-2018 23:49:27 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 369
+[20-Nov-2018 23:49:27 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 399
+[20-Nov-2018 23:49:27 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 429
+[20-Nov-2018 23:50:40 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:50:40 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:50:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 338
+[20-Nov-2018 23:50:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 369
+[20-Nov-2018 23:50:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 399
+[20-Nov-2018 23:50:40 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 429
+[20-Nov-2018 23:51:20 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:51:20 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:51:20 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 329
+[20-Nov-2018 23:51:20 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 360
+[20-Nov-2018 23:51:20 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 390
+[20-Nov-2018 23:51:20 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/deleitatecom/public_html/admin/ventas/edicion.php on line 420
+[20-Nov-2018 23:53:03 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:53:03 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:53:21 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:53:21 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:53:32 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:53:32 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[20-Nov-2018 23:54:18 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[20-Nov-2018 23:54:18 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[21-Nov-2018 00:23:18 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 00:39:54 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 00:40:04 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 00:40:04 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 00:40:04 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 00:59:09 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 00:59:09 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 00:59:09 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 00:59:09 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 00:59:09 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 00:59:09 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 01:00:55 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 01:00:55 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[21-Nov-2018 07:57:37 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 07:57:37 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 07:57:37 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 07:57:37 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 07:57:37 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 07:57:37 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 07:58:09 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 07:58:09 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[21-Nov-2018 07:58:46 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 07:58:46 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 07:58:46 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 07:58:46 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 07:58:46 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 07:58:46 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:18:39 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 08:18:39 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:18:39 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:18:39 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:18:39 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:18:39 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:18:39 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:19:00 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 08:19:00 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[21-Nov-2018 08:21:20 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 08:21:20 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:21:20 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:21:20 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:21:20 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:21:20 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:21:20 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:21:29 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 08:21:29 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[21-Nov-2018 08:21:43 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 08:21:43 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:21:43 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:21:43 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:21:43 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:21:43 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 08:21:43 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1492
+[21-Nov-2018 09:08:36 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 09:08:36 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/deleitatecom/public_html/admin/cls/funciones.php on line 1283
+[21-Nov-2018 15:13:05 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7
+[21-Nov-2018 15:13:08 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deleitatecom/public_html/admin/cls/funciones.php on line 7

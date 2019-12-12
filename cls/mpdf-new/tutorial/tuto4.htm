@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Columnas múltiples</title>
+<link type="text/css" rel="stylesheet" href="../fpdf.css">
+</head>
+<body>
+<h1>Columnas múltiples</h1>
+Este ejemplo es una variante del anterior en el que se mostrará como disponer texto
+en varias columnas.
+<div class="source">
+<pre><code>&lt;?php
+<span class="kw">require(</span><span class="str">'fpdf.php'</span><span class="kw">);
+
+class </span>PDF <span class="kw">extends </span>FPDF
+<span class="kw">{
+protected </span>$col <span class="kw">= </span>0<span class="kw">; </span><span class="cmt">// Columna actual
+</span><span class="kw">protected </span>$y0<span class="kw">;      </span><span class="cmt">// Ordenada de comienzo de la columna
+
+</span><span class="kw">function </span>Header<span class="kw">()
+{
+    </span><span class="cmt">// Cabacera
+    </span><span class="kw">global </span>$title<span class="kw">;
+
+    </span>$<span class="kw">this-&gt;</span>SetFont<span class="kw">(</span><span class="str">'Arial'</span><span class="kw">,</span><span class="str">'B'</span><span class="kw">,</span>15<span class="kw">);
+    </span>$w <span class="kw">= </span>$<span class="kw">this-&gt;</span>GetStringWidth<span class="kw">(</span>$title<span class="kw">)+</span>6<span class="kw">;
+    </span>$<span class="kw">this-&gt;</span>SetX<span class="kw">((</span>210<span class="kw">-</span>$w<span class="kw">)/</span>2<span class="kw">);
+    </span>$<span class="kw">this-&gt;</span>SetDrawColor<span class="kw">(</span>0<span class="kw">,</span>80<span class="kw">,</span>180<span class="kw">);
+    </span>$<span class="kw">this-&gt;</span>SetFillColor<span class="kw">(</span>230<span class="kw">,</span>230<span class="kw">,</span>0<span class="kw">);
+    </span>$<span class="kw">this-&gt;</span>SetTextColor<span class="kw">(</span>220<span class="kw">,</span>50<span class="kw">,</span>50<span class="kw">);
+    </span>$<span class="kw">this-&gt;</span>SetLineWidth<span class="kw">(</span>1<span class="kw">);
+    </span>$<span class="kw">this-&gt;</span>Cell<span class="kw">(</span>$w<span class="kw">,</span>9<span class="kw">,</span>$title<span class="kw">,</span>1<span class="kw">,</span>1<span class="kw">,</span><span class="str">'C'</span><span class="kw">,</span>true<span class="kw">);
+    </span>$<span class="kw">this-&gt;</span>Ln<span class="kw">(</span>10<span class="kw">);
+    </span><span class="cmt">// Guardar ordenada
+    </span>$<span class="kw">this-&gt;</span>y0 <span class="kw">= </span>$<span class="kw">this-&gt;</span>GetY<span class="kw">();
+}
+
+function </span>Footer<span class="kw">()
+{
+    </span><span class="cmt">// Pie de página
+    </spa

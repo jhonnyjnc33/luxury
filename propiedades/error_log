@@ -1,0 +1,6 @@
+[15-Oct-2019 23:45:00 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/luxury/public_html/admin/cls/funciones.php on line 7
+[15-Oct-2019 23:45:00 America/Mexico_City] PHP Fatal error:  Call to undefined function lista() in /home/luxury/public_html/admin/propiedades/index.php on line 3
+[15-Oct-2019 23:45:13 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/luxury/public_html/admin/cls/funciones.php on line 7
+[15-Oct-2019 23:45:13 America/Mexico_City] PHP Fatal error:  Call to undefined function lista() in /home/luxury/public_html/admin/propiedades/index.php on line 3
+[15-Oct-2019 23:45:40 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/luxury/public_html/admin/cls/funciones.php on line 7
+[15-Oct-2019 23:45:40 America/Mexico_City] PHP Fatal error:  Call to undefined function lista() in /home/luxury/public_html/admin/propiedades/index.php on line 3

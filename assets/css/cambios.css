@@ -1,0 +1,190 @@
+#agrega, #agregaPlano{
+	display: block;
+	width: 120px;
+	background: #427fed;
+	color: #fff;
+	text-align: center;
+	margin: 0 0 20px 0;
+	padding: 7px 0;
+}
+.g{
+	margin-bottom: 5px;
+}
+.clear{
+	clear: both;
+}
+#form_alta, #form_altaC, #cotizacion{
+	display: none;
+	background: #f9f9f9;
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #eee;  
+}
+.margin{
+	margin-bottom: 10px;
+}
+
+#close_form{
+	display: block;
+	font-size: 18px;
+	text-align: right;  
+}
+
+#carga{
+	display: none;
+}
+#respuesta{
+	display: none;
+}
+
+.texto_eliminar{
+	margin: 5px 0 5px 0;
+	display: none;
+}
+.texto_eliminar a{
+	dispay: inline-block;
+	padding: 5px;
+	
+}
+.bordered-palegreen a{
+	border: 1px solid #a0d468;
+    display: inline-block;
+    margin: 0 0 0 10px;
+    padding: 5px 10px;
+}
+.evento{
+	padding: 10px;
+	background: #f9f9f9;
+	margin: 10px 0 10px 0;
+	border: 1px solid #e1e1e1;
+}
+.dato{
+	font-size: 18px; 
+	padding: 20px;
+	margin: 0 0 25px 0;
+}
+.profile-container .profile-header .profile-stats .stats-col .stats-value{
+	font-size: 20px; 
+}
+.paginacion{
+	padding: 10px;
+}
+.pro{
+	padding: 15px 0;  
+}
+.pro ul li{
+	list-style: none;
+	
+	margin: 5px 0;
+	padding: 0%;
+}
+.cot_tit{
+	background: #b7b7b7;
+	padding: 6px;
+	font-weight: bold;  
+}
+.pro ul li label, .producto_l{
+	font-size: 11px;
+	display: inline-block;
+	width: 250px;
+}
+.familia, .linea_t{
+	display: inline-block;
+	width: 100px;
+}
+.precio, .precio input{
+	display: inline-block;
+	width: 100px;
+}
+.cot_content{
+	background: #fff;
+	padding: 7px;
+	border: 1px solid #ccc;
+	margin: 5px 0 10px 0;
+	position: relative; 
+}
+
+.prel{
+	display: none;
+}
+textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"]{
+	background: #fff none repeat scroll 0 0;
+}
+.quita_familia{
+	text-align: right;
+}
+.quita_familia {
+	height: 20px;
+    padding: 0 4px;
+    text-align: center;
+    width: 20px;
+    position: absolute;
+    right: 5px;
+}
+.quita_familia  i{
+	padding: 0;
+	margin: 0;
+}
+#guardar_cotizacion{
+	display: none;
+	float: right;
+	margin: 5px 0; 
+}
+.b{
+	border: 1px solid #eee;
+}
+
+.lista-amenidades ul li{
+	display: inline-block;
+	width: 22%;
+	padding: 10px 2%;
+}
+
+.ttt{
+	padding: 10px;
+	background: #f1f1f1;
+	margin: 15px 0 15px 0;
+}
+.oculto{
+	display: none;
+}
+.c{
+	display: block;
+	text-align: center;
+	color: #red;
+	float: right; 
+	margin: 20px 0 20px 0;
+}
+#ver{
+	display: inline-block;
+	font-size: 11px;
+	background: #2dc3e8;
+	padding: 5px;
+	color: #fff;
+	margin-left: 5px;
+}
+.galeria{
+	border: 1px solid #eeeeee;
+    float: left;
+    height: 100px;
+    margin-right: 6px;
+    padding: 3px;
+    position: relative;
+    width: 100px;
+    overflow: hidden;
+margin-bottom: 10px;
+}
+.galeria img{
+	width: 100%;
+}
+.galeria i{
+	position: absolute;
+	display: block;
+	top: -5px;
+	font-size: 20px;
+	right: -5px;
+	cursor: pointer;
+}
+.navbar .navbar-inner{
+	background: #3e3e3e;
+}
